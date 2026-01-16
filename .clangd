@@ -1,0 +1,11 @@
+CompileFlags:
+  Add:
+    - -IC:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include
+    - -IC:/Users/power/dev/QT/6.10.1/msvc2022_64/include
+    - -IC:/Users/power/dev/QT/6.10.1/msvc2022_64/include/QtCore
+    - -IC:/Users/power/dev/QT/6.10.1/msvc2022_64/include/QtGui
+    - -IC:/Users/power/dev/QT/6.10.1/msvc2022_64/include/QtQml
+    - -IC:/Users/power/dev/QT/6.10.1/msvc2022_64/include/QtQuick
+    - -IC:/Program Files (x86)/Windows Kits/10/Include/10.0.26100.0/ucrt
+    - -IC:/Program Files (x86)/Windows Kits/10/Include/10.0.26100.0/shared
+    - -IC:/Program Files (x86)/Windows Kits/10/Include/10.0.26100.0/um

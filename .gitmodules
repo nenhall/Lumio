@@ -1,0 +1,3 @@
+[submodule "submodules/PixRaw"]
+	path = submodules/PixRaw
+	url = https://github.com/nenhall/PixRaw.git
