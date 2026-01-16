@@ -2,6 +2,8 @@
 
 基于 Qt 6 的应用程序，集成了 LibRaw 库用于处理数码相机的 RAW 文件。
 
+Raw Processor：[PixRaw](https://github.com/nenhall/PixRaw)
+
 ## 功能特性
 
 - 读取和解析 RAW 图像文件（支持 Canon CR2/CR3、Nikon NEF、Sony ARW 等格式）
@@ -136,3 +138,4 @@ Lumio/
 - [LibRaw 官方网站](https://www.libraw.org/)
 - [LibRaw GitHub 仓库](https://github.com/LibRaw/LibRaw)
 - [Qt 官方文档](https://doc.qt.io/)
+
